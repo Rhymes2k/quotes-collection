@@ -1,0 +1,18 @@
+{
+  "name": "wmspublishing/quotes-collection",
+  "type": "wordpress-plugin",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "description": "Quotes Collection plugin with Ajax powered Random Quote sidebar widget helps you collect and display your favourite quotes in your WordPress blog/website.",
+  "homepage": "http://srinig.com/wordpress/plugins/quotes-collection/",
+  "authors": [
+    {
+      "name": "SriniG",
+      "email": "s@srinig.com",
+      "homepage": "http://srinig.com/"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
